@@ -22,15 +22,15 @@
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.10.1",
     "supertest": "^4.0.2",
-    "yarn": "^1.17.3"
+    "yarn": "^1.17.3",
+    "nodemon": "^1.19.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-import": "^2.18.0",
-    "eslint-plugin-prettier": "^3.1.0",
-    "nodemon": "^1.19.1",
+    "eslint-plugin-prettier": "^3.1.0",    
     "prettier": "^1.18.2",
     "sequelize-cli": "^5.5.0",
     "sucrase": "^3.10.1"
